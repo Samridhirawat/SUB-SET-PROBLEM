@@ -21,9 +21,13 @@ Problem Statment:
 
 
 
+
+
+
 # SOLUTION   
 
-![image]
+
+![image](https://github.com/Samridhirawat/SUB-SET-PROBLEM/assets/172124279/33d142cd-bbaf-4892-90ec-0c4ee330a25a)
 
 
 
